@@ -2,8 +2,6 @@
 
 I am a passionate CSE student at IITM Gwalior, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<Vignesh-2109>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelors' in Computer Science at IITM Gwalior.
@@ -13,7 +11,7 @@ I am a passionate CSE student at IITM Gwalior, driven by a curiosity for technol
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,bash,bootstrap,cpp,django,eclipse,firebase,flask,git,github,gmail,graphql,latex,linkedin,matlab,mongodb,mysql,nextjs,nodejs,notion,opencv,postman,py,react,sklearn,tailwind,tensorflow,twitter,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
