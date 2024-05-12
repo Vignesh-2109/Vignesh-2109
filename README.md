@@ -4,9 +4,12 @@ I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for techno
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelors' in Computer Science at IITM Gwalior.
+- 🔭 I'm currently pursuing my Bachelors' in Computer Science at IIITM Gwalior.
 - 🌱 I’m currently exploring Full Stack Web Development, including React, Redux, React Router, Tailwind CSS, Django, and PostgreSQL.
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 💡 Actively learning Data Structures and Algorithms (DSA) to enhance problem-solving skills for technical interviews and coding challenges.
+- 🎓 Preparing for placements this year, including practicing coding interview questions and participating in mock interviews.
+- 💻 Interested in competitive programming and honing algorithmic problem-solving skills.
 
 
 
