@@ -1,6 +1,6 @@
 # Hi, I'm Vignesh Maram 👋
 
-I am a passionate CSE student at IITM Gwalior, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## 🚀 About Me
 
