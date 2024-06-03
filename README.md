@@ -24,6 +24,7 @@ I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for techno
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-maram-b1209b147/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinnumaram@gmail.com)
 
   
 
