@@ -29,7 +29,9 @@ I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for techno
   
 
 ## Projects
-### Cyberbullying detection (June 2024)
+
+
+### Cyberbullying detection (July 2024)
 
 - Application of different deep learning models to text data to identify instances of cyberbullying.
 - Analyzed over 40,000 text samples to understand the context and nuances of language used in cyberbullying,
@@ -37,20 +39,22 @@ showcasing different strengths in processing and classifying data.
 - Achieved an 87% accuracy with a BERT-based model, outperforming a GRU-based model of 82% accuracy and a
 CNN-based model of 85% accuracy.
 
-### Live Streaming Website (January 2024)
-
-- Developed LiveCast Pro, a live streaming app enabling user registration, login, and live stream creation.
-- Engineered video feed merging with overlays, streaming directly to YouTube using FFmpeg.
-- Designed backend services for authentication and stream management using Node.js and MongoDB.
-
-### Video Chatting Website (November 2023)
+### Video Chatting Website (May 2024)
 
 - Real-Time Video Chat Application using React, Tailwind CSS, Node.js/Express, Socket.io, MongoDB, and GraphQL.
 - Engineered a dynamic signaling server in Node.js and Socket.io.
 - Integrated MongoDB for efficient data management, GraphQL for flexible API operations.
 - Implemented advanced features leveraging WebRTC for optimal audio and video quality.
 
-### Visitor Checking System (August 2023)
+### Live Streaming Website (March 2024)
+
+- Developed LiveCast Pro, a live streaming app enabling user registration, login, and live stream creation.
+- Engineered video feed merging with overlays, streaming directly to YouTube using FFmpeg.
+- Designed backend services for authentication and stream management using Node.js and MongoDB.
+
+
+
+### Visitor Checking System (November 2023)
 
 - Developed a Visitor Checking System with 97% accuracy using advanced one-shot learning techniques.
 - Used ML models like HaarCascade and FaceNet.
@@ -74,13 +78,22 @@ CNN-based model of 85% accuracy.
 
 C/C++, SQL, Python, JavaScript
 
+### Development
+
+HTML,CSS,React.js,Express.js,Node.js,NextJS,Tailwind CSS,TensorFlow,Bootstrap,Flask
+
+### Soft Skills
+
+Communication,Adaptability,Leadership,Teamwork,Time Management
+
 ### Developer Tools
 
-HTML, CSS, Git, GitHub
+Git,Github,VS Code,Jupyter Notebook,Latex
 
-### Frameworks
+### Operating Systems
 
-React, Express.js, Node.js, Next.js, Tailwind CSS
+Windows,Linux
+
 
 ### Databases
 
@@ -102,7 +115,7 @@ MongoDB, Firebase
 
 ## Education
 
-- Bachelor of Technology in Computer Science, IIITM Gwalior, 2021 – 2025 (CGPA-7.72)
+- Bachelor of Technology in Computer Science, IIITM Gwalior, 2021 – 2025 (CGPA-7.80)
 - Intermediate Education, Sri Chaitanya Junior Kalasala, 2021 (Percentage-98%)
 - Secondary Education, Sri Chaitanya Techno School, 2018 (Percentage-97%)
 
