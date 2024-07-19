@@ -30,21 +30,20 @@ I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for techno
 
 ## Projects
 
+### Video Chatting Website (July 2024)
 
-### Cyberbullying detection (July 2024)
+- Real-Time Video Chat Application using React, Tailwind CSS, Node.js/Express, Socket.io, MongoDB, and GraphQL.
+- Engineered a dynamic signaling server in Node.js and Socket.io.
+- Integrated MongoDB for efficient data management, GraphQL for flexible API operations.
+- Implemented advanced features leveraging WebRTC for optimal audio and video quality.
+
+### Cyberbullying detection (June 2024)
 
 - Application of different deep learning models to text data to identify instances of cyberbullying.
 - Analyzed over 40,000 text samples to understand the context and nuances of language used in cyberbullying,
 showcasing different strengths in processing and classifying data.
 - Achieved an 87% accuracy with a BERT-based model, outperforming a GRU-based model of 82% accuracy and a
 CNN-based model of 85% accuracy.
-
-### Video Chatting Website (May 2024)
-
-- Real-Time Video Chat Application using React, Tailwind CSS, Node.js/Express, Socket.io, MongoDB, and GraphQL.
-- Engineered a dynamic signaling server in Node.js and Socket.io.
-- Integrated MongoDB for efficient data management, GraphQL for flexible API operations.
-- Implemented advanced features leveraging WebRTC for optimal audio and video quality.
 
 ### Live Streaming Website (March 2024)
 
@@ -59,6 +58,12 @@ CNN-based model of 85% accuracy.
 - Developed a Visitor Checking System with 97% accuracy using advanced one-shot learning techniques.
 - Used ML models like HaarCascade and FaceNet.
 - Built a web app using Flask for real-time authentication.
+
+### Smart Irrigation System (September 2023)
+
+- Engineered a comprehensive database management system for the military.
+- Handled diverse information related to personnel, equipment, and accommodations.
+- Conducted searches with SQL and Relational Algebra Expressions.
 
 ### Army Database Management System (July 2023)
 
