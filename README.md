@@ -5,7 +5,7 @@ I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for techno
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelors' in Computer Science at IIITM Gwalior.
-- 🌱 I’m currently exploring Full Stack Web Development, including React, Redux, React Router, Tailwind CSS, Django, and PostgreSQL.
+- 🌱 I’m currently exploring Full Stack Web Development, including React, Redux, React Router, Tailwind CSS.
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 - 💡 Actively learning Data Structures and Algorithms (DSA) to enhance problem-solving skills for technical interviews and coding challenges.
 - 🎓 Preparing for placements this year, including practicing coding interview questions and participating in mock interviews.
@@ -30,14 +30,7 @@ I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for techno
 
 ## Projects
 
-### Video Chatting Website (July 2024)
-
-- Real-Time Video Chat Application using React, Tailwind CSS, Node.js/Express, Socket.io, MongoDB, and GraphQL.
-- Engineered a dynamic signaling server in Node.js and Socket.io.
-- Integrated MongoDB for efficient data management, GraphQL for flexible API operations.
-- Implemented advanced features leveraging WebRTC for optimal audio and video quality.
-
-### Cyberbullying detection (June 2024)
+### Cyberbullying detection (July 2024)
 
 - Application of different deep learning models to text data to identify instances of cyberbullying.
 - Analyzed over 40,000 text samples to understand the context and nuances of language used in cyberbullying,
@@ -45,13 +38,17 @@ showcasing different strengths in processing and classifying data.
 - Achieved an 87% accuracy with a BERT-based model, outperforming a GRU-based model of 82% accuracy and a
 CNN-based model of 85% accuracy.
 
-### Live Streaming Website (March 2024)
+### StreamAura (March 2024)
 
 - Developed LiveCast Pro, a live streaming app enabling user registration, login, and live stream creation.
 - Engineered video feed merging with overlays, streaming directly to YouTube using FFmpeg.
 - Designed backend services for authentication and stream management using Node.js and MongoDB.
 
+### AgroVision (January 2024)
 
+-  Developed a farmer-centric web application, reducing crop losses by 25% using Plant.id Machine Learning API for accurate plant disease detection and prevention.
+-  Crafted a dashboard to visualise the details of the obtained crop in a particular year for the registered user
+-  Implemented Multer for Image Acquisition and Axios for efficient RESTful API calls to the Backend
 
 ### Visitor Checking System (November 2023)
 
