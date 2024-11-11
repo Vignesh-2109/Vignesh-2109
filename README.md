@@ -32,17 +32,15 @@ I am a passionate CSE student at IIITM Gwalior, driven by a curiosity for techno
 
 ### Cyberbullying detection (July 2024)
 
-- Application of different deep learning models to text data to identify instances of cyberbullying.
-- Analyzed over 40,000 text samples to understand the context and nuances of language used in cyberbullying,
-showcasing different strengths in processing and classifying data.
-- Achieved an 87% accuracy with a BERT-based model, outperforming a GRU-based model of 82% accuracy and a
-CNN-based model of 85% accuracy.
+-  Achieved an 81.25% accuracy in detecting cyberbullying using advanced Natural Language Processing (NLP) techniques and deep learning models, specifically a Bi-LSTM model, on a balanced dataset with 6 distinct labels and 40,000 text samples.
+-  Implemented data preprocessing and feature extraction methods, including text normalization and GloVe embeddings,reducing preprocessing time by 40%.
+-  Engineered and deployed a web application using Flask (backend) and React (frontend), enabling real-time detection of cyberbullying from both text and audio inputs.
 
 ### StreamAura (March 2024)
 
-- Developed LiveCast Pro, a live streaming app enabling user registration, login, and live stream creation.
-- Engineered video feed merging with overlays, streaming directly to YouTube using FFmpeg.
-- Designed backend services for authentication and stream management using Node.js and MongoDB.
+- Developed a browser-based video streaming app using ReactJS that allows users to stream to platforms like Twitch and YouTube.
+- Engineered real-time video streaming with a Node.js backend using FFmpeg to convert video feeds into RTMP streams,forwarding them to YouTube for live broadcasts.
+-  Integrated secure user authentication with Clerk and managed database operations using Prisma ORM while enabling real-time communication between the frontend and backend via Socket.IO for live stream creation and control.
 
 ### AgroVision (January 2024)
 
